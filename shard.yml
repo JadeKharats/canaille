@@ -1,0 +1,13 @@
+name: cannaille
+version: 0.1.0
+
+authors:
+  - Jade D. Kharats <jade.kharats@gmail.com>
+
+targets:
+  cannaille:
+    main: src/cannaille.cr
+
+crystal: '>= 1.15.1'
+
+license: MIT
